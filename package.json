@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://SciSensei.github.io/volta",
+  "homepage": "http://scisensei.github.io/volta",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
